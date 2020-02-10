@@ -188,3 +188,7 @@ In diesem Abschnitt erhalten Sie eine Übersicht über die in dieser Datenschutz
     • Verantwortlicher: Als "Verantwortlicher“ wird die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, bezeichnet. 
     • Verarbeitung: "Verarbeitung" ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten. Der Begriff reicht weit und umfasst praktisch jeden Umgang mit Daten, sei es das Erheben, das Auswerten, das Speichern, das Übermitteln oder das Löschen. 
 Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke
+
+| [Startseite](https://matheli.github.io/Herzinsuffizienz) | [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/posts/Herzinsuffizienz) | [Der Datensatz](https://matheli.github.io/Herzinsuffizienz/posts/Datensatz) | [Das "machine learning" Modell](https://matheli.github.io/Herzinsuffizienz/posts/machine_learning_modell) |
+
+| [Datenschutz](https://matheli.github.io/Herzinsuffizienz/posts/Datenschutz) | [Impressum](https://matheli.github.io/Herzinsuffizienz/posts/Impressum) |
