@@ -14,3 +14,8 @@ The project didn’t just arouse my interest in artificial intelligence, it impr
 ![](https://raw.githubusercontent.com/MatheLi/BWKI/master/res/Foto_Roboter_Kluth.jpg)
 
 *Robot of me, Image source: https://www.flickr.com/photos/adolf_kluth/39918346113/in/album-72157706089999965/*
+
+| [Startseite](https://matheli.github.io/Herzinsuffizienz) | [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/posts/Herzinsuffizienz) | [Der Datensatz](https://matheli.github.io/Herzinsuffizienz/posts/Datensatz) | [Das "machine learning" Modell](https://matheli.github.io/Herzinsuffizienz/posts/machine_learning_modell) | [Accuracy](https://matheli.github.io/Herzinsuffizienz/posts/Accuracy) | [Das Team](https://matheli.github.io/Herzinsuffizienz/posts/Team/Team) |
+
+| [Datenschutz](https://matheli.github.io/Herzinsuffizienz/posts/Datenschutz) | [Impressum](https://matheli.github.io/Herzinsuffizienz/posts/Impressum) |
+
