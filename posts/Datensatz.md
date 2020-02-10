@@ -82,6 +82,10 @@ ungenau
 • Zeitaufwand, genauere Vorhersage, kein Verlust
 von Daten
 
+##  Correlation Matrix
+
+![Correlation Matrix](https://matheli.github.io/Herzinsuffizienz/posts/Correlation_Matrix.png)
+
 
 | [Startseite](https://matheli.github.io/Herzinsuffizienz) | [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/posts/Herzinsuffizienz) |
 
