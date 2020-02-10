@@ -29,7 +29,7 @@ Inhaltsübersicht
     
 ![](https://raw.githubusercontent.com/MatheLi/Fall_Detection_App_AI/master/res/kontakt.png?raw=true)
 
- Impressum: https://github.com/MatheLi/Fall_Detection_App_AI/blob/master/posts/Impressum_Haftungsauschluss.md
+ Impressum: https://matheli.github.io/Herzinsuffizienz/posts/Impressum
 
 Vertretungsberechtigte Personen:
 
