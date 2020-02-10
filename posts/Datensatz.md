@@ -48,3 +48,5 @@ Eine KI ist nur so gut, wie die Daten aus denen sie lernt.
 Gleichmäßige Verteilung der Labels:
 
 ![Gleichmäßige Verteilung der Labels](https://matheli.github.io/Herzinsuffizienz/posts/gleichm%C3%A4%C3%9Fige%20Verteilung%20der%20Labels.png)
+
+| [Startseite](https://matheli.github.io/Herzinsuffizienz) | [Was ist eine Herinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/posts/Herzinsuffizienz) | [Der Datensatz](https://matheli.github.io/Herzinsuffizienz/posts/Datensatz) |
