@@ -16,7 +16,9 @@ Insgesamt leiden 1,8 Millionen Menschen in Deutschland an einer Herzinsuffizienz
 
 • Gewichtszunahme
 
-• Umfangsvermehrung der Unterschenkel mit Ödemen
+• Umfangsvermehrung der Unterschenkel mit Ödemen#
+
+![Logo](https://matheli.github.io/Herzinsuffizienz/Logo_neu.jfif)
 
 
 | [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/posts/Herzinsuffizienz) | [Der Datensatz](https://matheli.github.io/Herzinsuffizienz/posts/Datensatz) | [Das "machine learning" Modell](https://matheli.github.io/Herzinsuffizienz/posts/machine_learning_modell) | [Accuracy](https://matheli.github.io/Herzinsuffizienz/posts/Accuracy) | [Das Team](https://matheli.github.io/Herzinsuffizienz/posts/Team/Team) |
