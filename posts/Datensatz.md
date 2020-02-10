@@ -21,6 +21,8 @@ ermittelt:
 
 • ST-Segment Veränderungen
 
+Übersicht über alle Parameter, die wir in unserem Trainingsprozess nutzen:
+
 ![Übersicht über alle Parameter, die wir in unserem Trainingsprozess nutzen](https://matheli.github.io/Herzinsuffizienz/posts/Daten_Diagramme.jpg)
 
 ## Was macht einen guten Datensatz aus?
@@ -42,5 +44,7 @@ ermittelt:
 • genaue Analyse der Daten
 
 Eine KI ist nur so gut, wie die Daten aus denen sie lernt.
+
+Gleichmäßige Verteilung der Labels:
 
 ![Gleichmäßige Verteilung der Labels](https://matheli.github.io/Herzinsuffizienz/posts/gleichm%C3%A4%C3%9Fige%20Verteilung%20der%20Labels.png)
