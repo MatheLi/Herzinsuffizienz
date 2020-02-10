@@ -1,7 +1,9 @@
 ## Accuracy (Genauigkeit)
 
 ![Accuracy auf Testdaten](https://matheli.github.io/Herzinsuffizienz/posts/Evaluation.png)
+
 ![Accuracy auf Trainingsdaten](https://matheli.github.io/Herzinsuffizienz/posts/Evaluation2.png
+
 ## Klassifizierungsproblem: „Liegt eine Herzinsuffizienz vor?“ „Ja“ (1) / „Nein“ (0)
 
 Unser Modell gibt durch die Sigmoidfunktion einen Prozentwert aus. Wenn wir den Schwellenwert
@@ -13,6 +15,6 @@ Motto: Lieber einmal zu viel zum Arzt, als eine spät diagnostizierte Herzinsuff
 ![](https://matheli.github.io/Herzinsuffizienz/posts/Tabelle.png)
 
 
-| [Startseite](https://matheli.github.io/Herzinsuffizienz) | [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/posts/Herzinsuffizienz) | [Der Datensatz](https://matheli.github.io/Herzinsuffizienz/posts/Datensatz) | [Das "machine learning" Modell](https://matheli.github.io/Herzinsuffizienz/posts/machine_learning_modell) | [Accuracy](https://matheli.github.io/Herzinsuffizienz/posts/Accuracy) |
+| [Startseite](https://matheli.github.io/Herzinsuffizienz) | [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/posts/Herzinsuffizienz) | [Der Datensatz](https://matheli.github.io/Herzinsuffizienz/posts/Datensatz) | [Das "machine learning" Modell](https://matheli.github.io/Herzinsuffizienz/posts/machine_learning_modell) |
 
 | [Datenschutz](https://matheli.github.io/Herzinsuffizienz/posts/Datenschutz) | [Impressum](https://matheli.github.io/Herzinsuffizienz/posts/Impressum) |
