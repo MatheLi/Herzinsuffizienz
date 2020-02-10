@@ -19,3 +19,5 @@ Insgesamt leiden 1,8 Millionen Menschen in Deutschland an einer Herzinsuffizienz
 
 
 | [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/Herzinsuffizienz) |
+
+| [Data protection](https://matheli.github.io/Fall_Detection_App_AI/posts/Datenschutzerkl%C3%A4rung) | [Imprint disclaimer](https://matheli.github.io/Fall_Detection_App_AI/posts/Impressum_Haftungsauschluss) |
