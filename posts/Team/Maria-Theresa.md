@@ -20,3 +20,8 @@ I also love to play piano, which I have been learning for more then 9 years.
 ![](https://news.embl.de/wp-content/uploads/2018/11/IMG_7591-768x576.jpg)
 
 *EMBL Researchers Night 2018, Image source: https://news.embl.de/events/ern2018/* 
+
+| [Startseite](https://matheli.github.io/Herzinsuffizienz) | [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/posts/Herzinsuffizienz) | [Der Datensatz](https://matheli.github.io/Herzinsuffizienz/posts/Datensatz) | [Das "machine learning" Modell](https://matheli.github.io/Herzinsuffizienz/posts/machine_learning_modell) | [Accuracy](https://matheli.github.io/Herzinsuffizienz/posts/Accuracy) | [Das Team](https://matheli.github.io/Herzinsuffizienz/posts/Team/Team) |
+
+| [Datenschutz](https://matheli.github.io/Herzinsuffizienz/posts/Datenschutz) | [Impressum](https://matheli.github.io/Herzinsuffizienz/posts/Impressum) |
+
