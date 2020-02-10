@@ -14,3 +14,11 @@ Größe der Batchsize zwei Patientendaten
 RMSprop als Optimizer genutzt (besonders effektiv für MiniBatches)
 
 Erstellt mit Tensorflow und Berechnungen in „Google Colab“ - ausgeführt auf Tensor-Prozessoren
+
+Keislauf des Modells:
+
+![Ablauf des Modells](https://matheli.github.io/Herzinsuffizienz/posts/Ablauf.jpg)
+
+| [Startseite](https://matheli.github.io/Herzinsuffizienz) | [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/posts/Herzinsuffizienz) | [Der Datensatz](https://matheli.github.io/Herzinsuffizienz/posts/Datensatz) | [Accuracy](https://matheli.github.io/Herzinsuffizienz/posts/Accuracy) |
+
+| [Datenschutz](https://matheli.github.io/Herzinsuffizienz/posts/Datenschutz) | [Impressum](https://matheli.github.io/Herzinsuffizienz/posts/Impressum) |
