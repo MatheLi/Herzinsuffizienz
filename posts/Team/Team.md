@@ -6,7 +6,7 @@
 
 # Picture of us
 
-![Teambild](https://matheli.github.io/Herzinsuffizienz/posts/Team/"Das Teambild.jfif")
+![Teambild](https://matheli.github.io/Herzinsuffizienz/posts/Team/Das Teambild.jfif)
 
 ![Teambild vor dem Hambacher Schloss](https://raw.githubusercontent.com/MatheLi/BWKI/master/res/gruppenfoto.jpeg)
 
