@@ -2,15 +2,17 @@ Insgesamt leiden 1,8 Millionen Menschen in Deutschland an einer Herzinsuffizienz
 
 Merkmale und Symptome (werden oft nicht wahrgenommen):
 
-
 • Luftnot 
-
 
 • Müdigkeit
 
-• nächtliches Wasserlassen 
+• nächtliches Wasserlassen
+
 • Leistungsverlust
+
 • Beinschwellungen 
+
 • Gewichtszunahme
+
 • Umfangsvermehrung der Unterschenkel mit Ödemen
 
