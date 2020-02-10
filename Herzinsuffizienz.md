@@ -22,4 +22,4 @@ Da die Lebenserwartung steigt, ist es ein relevantes Thema an der Früherkennung
 Prävention und medizinischen Behandlung in der Zukunft zu forschen, sowohl aus
 medizinischer als auch aus ökonomischer Sicht.
 
-| [Startseite](https://matheli.github.io/Herzinsuffizienz)
+| [Startseite](https://matheli.github.io/Herzinsuffizienz) |
