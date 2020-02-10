@@ -18,6 +18,6 @@ Insgesamt leiden 1,8 Millionen Menschen in Deutschland an einer Herzinsuffizienz
 • Umfangsvermehrung der Unterschenkel mit Ödemen
 
 
-| [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/Herzinsuffizienz) |
+| [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/posts/Herzinsuffizienz) |
 
 | [Data protection](https://matheli.github.io/Fall_Detection_App_AI/posts/Datenschutzerkl%C3%A4rung) | [Imprint disclaimer](https://matheli.github.io/Fall_Detection_App_AI/posts/Impressum_Haftungsauschluss) |
