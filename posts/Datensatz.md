@@ -34,8 +34,8 @@ ermittelt:
 • Ausgewogenheit zwischen den Labels
 
 • Verlässlichkeit (sind richtige Labels gesetzt?)
-          
-          → Überprüfung über Visualisierung und
+
+→ Überprüfung über Visualisierung und
  
 • genaue Analyse der Daten
 
