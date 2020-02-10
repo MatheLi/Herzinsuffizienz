@@ -1,6 +1,6 @@
 ## Accuracy (Genauigkeit)
 
-![](https://matheli.github.io/Herzinsuffizienz/Evaluation.png)
+![](https://matheli.github.io/Herzinsuffizienz/posts/Evaluation.png)
 
 
 
