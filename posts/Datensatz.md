@@ -21,7 +21,7 @@ ermittelt:
 
 • ST-Segment Veränderungen
 
-![](./posts/Daten_Diagramme.jpg)
+![](https://matheli.github.io/Herzinsuffizienz/posts/Daten_Diagramme.jpg)
 
 ## Was macht einen guten Datensatz aus?
 
