@@ -17,6 +17,6 @@ Motto: Lieber einmal zu viel zum Arzt, als eine spät diagnostizierte Herzinsuff
 ![](https://matheli.github.io/Herzinsuffizienz/posts/Tabelle.png)
 
 
-| [Startseite](https://matheli.github.io/Herzinsuffizienz) | [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/posts/Herzinsuffizienz) | [Der Datensatz](https://matheli.github.io/Herzinsuffizienz/posts/Datensatz) | [Das "machine learning" Modell](https://matheli.github.io/Herzinsuffizienz/posts/machine_learning_modell) |
+| [Startseite](https://matheli.github.io/Herzinsuffizienz) | [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/posts/Herzinsuffizienz) | [Der Datensatz](https://matheli.github.io/Herzinsuffizienz/posts/Datensatz) | [Das "machine learning" Modell](https://matheli.github.io/Herzinsuffizienz/posts/machine_learning_modell) | [Das Team](https://matheli.github.io/Herzinsuffizienz/posts/Team/Team) |
 
 | [Datenschutz](https://matheli.github.io/Herzinsuffizienz/posts/Datenschutz) | [Impressum](https://matheli.github.io/Herzinsuffizienz/posts/Impressum) |
