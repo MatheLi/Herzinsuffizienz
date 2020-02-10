@@ -16,4 +16,3 @@ Insgesamt leiden 1,8 Millionen Menschen in Deutschland an einer Herzinsuffizienz
 • Gewichtszunahme
 
 • Umfangsvermehrung der Unterschenkel mit Ödemen
-
