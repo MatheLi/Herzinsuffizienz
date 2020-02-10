@@ -14,3 +14,8 @@
 * Participation at Talent Schools like [JAM](http://www.jugendakademie-mannheim.de) and [AIM](https://www.aim-akademie.org/unser-programm/individuelle-bildung-und-erziehung/unsere-angebote/juniorakademie.html)
 * Projects with [Master MINT](https://master-mint.de) and [Tschira Jugendakademie](https://www.tschira-jugendakademie.info)
 * 2009 - 2013, [Ecole Pierre et Marie Curie](https://ecole.de/fr/)
+
+| [Startseite](https://matheli.github.io/Herzinsuffizienz) | [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/posts/Herzinsuffizienz) | [Der Datensatz](https://matheli.github.io/Herzinsuffizienz/posts/Datensatz) | [Das "machine learning" Modell](https://matheli.github.io/Herzinsuffizienz/posts/machine_learning_modell) | [Accuracy](https://matheli.github.io/Herzinsuffizienz/posts/Accuracy) | [Das Team](https://matheli.github.io/Herzinsuffizienz/posts/Team/Team) |
+
+| [Datenschutz](https://matheli.github.io/Herzinsuffizienz/posts/Datenschutz) | [Impressum](https://matheli.github.io/Herzinsuffizienz/posts/Impressum) |
+
