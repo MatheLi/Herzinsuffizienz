@@ -2,7 +2,7 @@
 
 ![Accuracy auf Testdaten](https://matheli.github.io/Herzinsuffizienz/posts/Evaluation.png)
 
-![Accuracy auf Trainingsdaten](https://matheli.github.io/Herzinsuffizienz/posts/Evaluation2.png
+![Accuracy auf Trainingsdaten](https://matheli.github.io/Herzinsuffizienz/posts/Evaluation2.png)
 
 ## Klassifizierungsproblem: „Liegt eine Herzinsuffizienz vor?“ „Ja“ (1) / „Nein“ (0)
 
