@@ -1,6 +1,6 @@
 # The team
 
-### [Maria-Theresa Licka](https://matheli.github.io/Herzinsuffizienz/posts/Team/Maria-Theresa.html)
+### [Maria-Theresa Licka](https://matheli.github.io/Herzinsuffizienz/posts/Team/Maria-Theresa)
 
 ### [Mario Schweikert](https://matheli.github.io/Herzinsuffizienz/posts/Team/Mario)
 
