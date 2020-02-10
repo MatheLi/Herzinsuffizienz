@@ -22,6 +22,6 @@ Da die Lebenserwartung steigt, ist es ein relevantes Thema an der Früherkennung
 Prävention und medizinischen Behandlung in der Zukunft zu forschen, sowohl aus
 medizinischer als auch aus ökonomischer Sicht.
 
-| [Startseite](https://matheli.github.io/Herzinsuffizienz) | Der Datensatz](https://matheli.github.io/Herzinsuffizienz/posts/Datensatz) |
+| [Startseite](https://matheli.github.io/Herzinsuffizienz) | [Der Datensatz](https://matheli.github.io/Herzinsuffizienz/posts/Datensatz) | [Das "machine learning" Modell](https://matheli.github.io/Herzinsuffizienz/posts/machine_learning_modell) | [Accuracy](https://matheli.github.io/Herzinsuffizienz/posts/Accuracy) | [Das Team](https://matheli.github.io/Herzinsuffizienz/posts/Team/Team) |
 
 | [Datenschutz](https://matheli.github.io/Herzinsuffizienz/posts/Datenschutz) | [Impressum](https://matheli.github.io/Herzinsuffizienz/posts/Impressum) |
