@@ -16,3 +16,6 @@ Insgesamt leiden 1,8 Millionen Menschen in Deutschland an einer Herzinsuffizienz
 • Gewichtszunahme
 
 • Umfangsvermehrung der Unterschenkel mit Ödemen
+
+
+| [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/Herzinsuffizienz) |
