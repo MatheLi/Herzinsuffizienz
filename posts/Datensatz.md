@@ -49,6 +49,6 @@ Gleichmäßige Verteilung der Labels:
 
 ![Gleichmäßige Verteilung der Labels](https://matheli.github.io/Herzinsuffizienz/posts/gleichm%C3%A4%C3%9Fige%20Verteilung%20der%20Labels.png)
 
-| [Startseite](https://matheli.github.io/Herzinsuffizienz) | [Was ist eine Herinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/posts/Herzinsuffizienz) |
+| [Startseite](https://matheli.github.io/Herzinsuffizienz) | [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/posts/Herzinsuffizienz) |
 
-| [Data protection](https://matheli.github.io/Fall_Detection_App_AI/posts/Datenschutzerkl%C3%A4rung) | [Imprint disclaimer](https://matheli.github.io/Fall_Detection_App_AI/posts/Impressum_Haftungsauschluss) |
+| [Datenschutz](https://matheli.github.io/Herzinsuffizienz/posts/Datenschutz) | [Impressum](https://matheli.github.io/Herzinsuffizienz/posts/Impressum) |
