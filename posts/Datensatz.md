@@ -87,6 +87,6 @@ von Daten
 ![Correlation Matrix](https://matheli.github.io/Herzinsuffizienz/posts/Correlation_Matrix.png)
 
 
-| [Startseite](https://matheli.github.io/Herzinsuffizienz) | [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/posts/Herzinsuffizienz) |
+| [Startseite](https://matheli.github.io/Herzinsuffizienz) | [Was ist eine Herzinsuffizienz?](https://matheli.github.io/Herzinsuffizienz/posts/Herzinsuffizienz) | [Das "machine learning" Modell](https://matheli.github.io/Herzinsuffizienz/posts/machine_learning_modell) | [Accuracy](https://matheli.github.io/Herzinsuffizienz/posts/Accuracy) | [Das Team](https://matheli.github.io/Herzinsuffizienz/posts/Team/Team) |
 
 | [Datenschutz](https://matheli.github.io/Herzinsuffizienz/posts/Datenschutz) | [Impressum](https://matheli.github.io/Herzinsuffizienz/posts/Impressum) |
