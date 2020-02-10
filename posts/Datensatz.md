@@ -21,6 +21,8 @@ ermittelt:
 
 • ST-Segment Veränderungen
 
+![](./posts/Daten_Diagramme.jpg)
+
 ## Was macht einen guten Datensatz aus?
 
 • Größe
