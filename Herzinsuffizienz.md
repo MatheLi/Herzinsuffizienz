@@ -23,3 +23,6 @@ Prävention und medizinischen Behandlung in der Zukunft zu forschen, sowohl aus
 medizinischer als auch aus ökonomischer Sicht.
 
 | [Startseite](https://matheli.github.io/Herzinsuffizienz) |
+
+
+| [Data protection](https://matheli.github.io/Fall_Detection_App_AI/posts/Datenschutzerkl%C3%A4rung) | [Imprint disclaimer](https://matheli.github.io/Fall_Detection_App_AI/posts/Impressum_Haftungsauschluss) |
