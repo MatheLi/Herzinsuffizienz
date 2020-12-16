@@ -22,10 +22,15 @@ Inhaltsübersicht
 
 # Verantwortlicher
  
- 
-![](https://raw.githubusercontent.com/MatheLi/Fall_Detection_App_AI/master/res/Adresse_Maria_Theresa.png?raw=true)
 
-![](https://raw.githubusercontent.com/MatheLi/Fall_Detection_App_AI/master/res/Adresse_Mario_Schweikert.png?raw=true)
+
+Mario Schweikert & Maria-Theresa
+
+c/o
+
+Jugend forscht AG
+Alter Viehberg 1
+67434 Neustadt 
     
 ![](https://raw.githubusercontent.com/MatheLi/Fall_Detection_App_AI/master/res/kontakt.png?raw=true)
 
@@ -33,9 +38,13 @@ Inhaltsübersicht
 
 Vertretungsberechtigte Personen:
 
-![](https://raw.githubusercontent.com/MatheLi/Fall_Detection_App_AI/master/res/Adresse_Maria_Theresa.png?raw=true)
+Mario Schweikert & Maria-Theresa
 
-![](https://raw.githubusercontent.com/MatheLi/Fall_Detection_App_AI/master/res/Adresse_Mario_Schweikert.png?raw=true)
+c/o
+
+Jugend forscht AG
+Alter Viehberg 1
+67434 Neustadt 
 
  
 Übersicht der Verarbeitungen
