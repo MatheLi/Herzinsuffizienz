@@ -24,7 +24,7 @@ Inhaltsübersicht
  
 
 
-Mario Schweikert & Maria-Theresa
+Mario Schweikert & Maria-Theresa Licka
 
 c/o
 
@@ -38,7 +38,7 @@ Alter Viehberg 1
 
 Vertretungsberechtigte Personen:
 
-Mario Schweikert & Maria-Theresa
+Mario Schweikert & Maria-Theresa Licka
 
 c/o
 
